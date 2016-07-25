@@ -1,6 +1,6 @@
 {
   "name": "minibot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Minimalistic bot framework based on the Microsoft Bot Framework",
   "author": "Alberto Mijares <almilo@almilo.es>",
   "license": "MIT",
